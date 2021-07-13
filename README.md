@@ -1,4 +1,5 @@
 # MS-Engage-2021
+To run the application, yopu will have to generate your own twilio api keys and secret keys and also firebase keys my making project on firebase.
 To run the application in other systems follow the steps below:
 1. npm init
 2. npm express
