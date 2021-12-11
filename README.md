@@ -1,5 +1,5 @@
 # MS-Engage-2021
-To run the application, yopu will have to generate your own twilio api keys and secret keys and also firebase keys my making project on firebase.
+To run the application, you will have to generate your own twilio api keys and secret keys and also firebase keys my making project on firebase.
 To run the application in other systems follow the steps below:
 1. npm init
 2. npm express
@@ -20,5 +20,6 @@ These are the screenshots of my working project "Microsoft Teams Clone"
 ![image](https://user-images.githubusercontent.com/71517596/145680776-eb3e92be-72fe-4c1c-a9a9-7414e9c49338.png)
 ![image](https://user-images.githubusercontent.com/71517596/145680797-658b5e73-ef9f-4d9f-8acc-1d720e9ea185.png)
 
-The live youtube link of my working project si below:
+![image](https://user-images.githubusercontent.com/71517596/145680884-a68b8d2d-af98-40a1-8038-7c88b1018359.png)
+The live youtube link of my working project is below:
 https://youtu.be/bb9TiqsLVXQ
